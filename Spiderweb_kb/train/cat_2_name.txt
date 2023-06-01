@@ -1,0 +1,181 @@
+,filepaths,labels
+0,train\Viuda_negra\001.jpg,Black Widow
+1,train\Viuda_negra\002.jpg,Black Widow
+2,train\Viuda_negra\003.jpg,Black Widow
+3,train\Viuda_negra\004.jpg,Black Widow
+4,train\Viuda_negra\005.jpg,Black Widow
+5,train\Viuda_negra\006.jpg,Black Widow
+6,train\Viuda_negra\007.jpg,Black Widow
+7,train\Viuda_negra\008.jpg,Black Widow
+8,train\Viuda_negra\009.jpg,Black Widow
+9,train\Viuda_negra\010.jpg,Black Widow
+10,train\Viuda_negra\011.jpg,Black Widow
+11,train\Viuda_negra\012.jpg,Black Widow
+12,train\Viuda_negra\013.jpg,Black Widow
+13,train\Viuda_negra\014.jpg,Black Widow
+14,train\Viuda_negra\015.jpg,Black Widow
+15,train\Viuda_negra\016.jpg,Black Widow
+16,train\Viuda_negra\017.jpg,Black Widow
+17,train\Viuda_negra\018.jpg,Black Widow
+18,train\Viuda_negra\019.jpg,Black Widow
+19,train\Viuda_negra\020.jpg,Black Widow
+20,train\Viuda_negra\021.jpg,Black Widow
+21,train\Viuda_negra\022.jpg,Black Widow
+22,train\Viuda_negra\023.jpg,Black Widow
+23,train\Viuda_negra\024.jpg,Black Widow
+24,train\Viuda_negra\025.jpg,Black Widow
+25,train\Viuda_negra\026.jpg,Black Widow
+26,train\Viuda_negra\027.jpg,Black Widow
+27,train\Viuda_negra\028.jpg,Black Widow
+28,train\Viuda_negra\029.jpg,Black Widow
+29,train\Viuda_negra\030.jpg,Black Widow
+30,train\Viuda_negra\031.jpg,Black Widow
+31,train\Viuda_negra\032.jpg,Black Widow
+32,train\Viuda_negra\033.jpg,Black Widow
+33,train\Viuda_negra\034.jpg,Black Widow
+34,train\Viuda_negra\035.jpg,Black Widow
+35,train\Viuda_negra\036.jpg,Black Widow
+36,train\Viuda_negra\037.jpg,Black Widow
+37,train\Viuda_negra\038.jpg,Black Widow
+38,train\Viuda_negra\039.jpg,Black Widow
+39,train\Viuda_negra\040.jpg,Black Widow
+40,train\Viuda_negra\041.jpg,Black Widow
+41,train\Viuda_negra\042.jpg,Black Widow
+42,train\Viuda_negra\043.jpg,Black Widow
+43,train\Viuda_negra\044.jpg,Black Widow
+44,train\Viuda_negra\045.jpg,Black Widow
+45,train\Viuda_negra\046.jpg,Black Widow
+46,train\Viuda_negra\047.jpg,Black Widow
+47,train\Viuda_negra\048.jpg,Black Widow
+48,train\Viuda_negra\049.jpg,Black Widow
+49,train\Viuda_negra\050.jpg,Black Widow
+607,train\Violinista\001.jpg,Brown Recluse Spider
+608,train\Violinista\002.jpg,Brown Recluse Spider
+609,train\Violinista\003.jpg,Brown Recluse Spider
+610,train\Violinista\004.jpg,Brown Recluse Spider
+611,train\Violinista\005.jpg,Brown Recluse Spider
+612,train\Violinista\006.jpg,Brown Recluse Spider
+613,train\Violinista\007.jpg,Brown Recluse Spider
+614,train\Violinista\008.jpg,Brown Recluse Spider
+615,train\Violinista\009.jpg,Brown Recluse Spider
+616,train\Violinista\010.jpg,Brown Recluse Spider
+617,train\Violinista\011.jpg,Brown Recluse Spider
+618,train\Violinista\012.jpg,Brown Recluse Spider
+619,train\Violinista\013.jpg,Brown Recluse Spider
+620,train\Violinista\014.jpg,Brown Recluse Spider
+621,train\Violinista\015.jpg,Brown Recluse Spider
+622,train\Violinista\016.jpg,Brown Recluse Spider
+623,train\Violinista\017.jpg,Brown Recluse Spider
+624,train\Violinista\018.jpg,Brown Recluse Spider
+625,train\Violinista\019.jpg,Brown Recluse Spider
+626,train\Violinista\020.jpg,Brown Recluse Spider
+627,train\Violinista\021.jpg,Brown Recluse Spider
+628,train\Violinista\022.jpg,Brown Recluse Spider
+629,train\Violinista\023.jpg,Brown Recluse Spider
+630,train\Violinista\024.jpg,Brown Recluse Spider
+631,train\Violinista\025.jpg,Brown Recluse Spider
+632,train\Violinista\026.jpg,Brown Recluse Spider
+633,train\Violinista\027.jpg,Brown Recluse Spider
+634,train\Violinista\028.jpg,Brown Recluse Spider
+635,train\Violinista\029.jpg,Brown Recluse Spider
+636,train\Violinista\030.jpg,Brown Recluse Spider
+637,train\Violinista\031.jpg,Brown Recluse Spider
+638,train\Violinista\032.jpg,Brown Recluse Spider
+639,train\Violinista\033.jpg,Brown Recluse Spider
+640,train\Violinista\034.jpg,Brown Recluse Spider
+641,train\Violinista\035.jpg,Brown Recluse Spider
+642,train\Violinista\036.jpg,Brown Recluse Spider
+643,train\Violinista\037.jpg,Brown Recluse Spider
+644,train\Violinista\038.jpg,Brown Recluse Spider
+645,train\Violinista\039.jpg,Brown Recluse Spider
+646,train\Violinista\040.jpg,Brown Recluse Spider
+647,train\Violinista\041.jpg,Brown Recluse Spider
+648,train\Violinista\042.jpg,Brown Recluse Spider
+649,train\Violinista\043.jpg,Brown Recluse Spider
+650,train\Violinista\044.jpg,Brown Recluse Spider
+651,train\Violinista\045.jpg,Brown Recluse Spider
+652,train\Violinista\046.jpg,Brown Recluse Spider
+653,train\Violinista\047.jpg,Brown Recluse Spider
+654,train\Violinista\048.jpg,Brown Recluse Spider
+655,train\Violinista\049.jpg,Brown Recluse Spider
+656,train\Violinista\050.jpg,Brown Recluse Spider
+867,train\Seda_dorada\001.jpg,Golden Orb Weaver
+868,train\Seda_dorada\002.jpg,Golden Orb Weaver
+869,train\Seda_dorada\003.jpg,Golden Orb Weaver
+870,train\Seda_dorada\004.jpg,Golden Orb Weaver
+871,train\Seda_dorada\005.jpg,Golden Orb Weaver
+872,train\Seda_dorada\006.jpg,Golden Orb Weaver
+873,train\Seda_dorada\007.jpg,Golden Orb Weaver
+874,train\Seda_dorada\008.jpg,Golden Orb Weaver
+875,train\Seda_dorada\009.jpg,Golden Orb Weaver
+876,train\Seda_dorada\010.jpg,Golden Orb Weaver
+877,train\Seda_dorada\011.jpg,Golden Orb Weaver
+878,train\Seda_dorada\012.jpg,Golden Orb Weaver
+879,train\Seda_dorada\013.jpg,Golden Orb Weaver
+880,train\Seda_dorada\014.jpg,Golden Orb Weaver
+881,train\Seda_dorada\015.jpg,Golden Orb Weaver
+882,train\Seda_dorada\016.jpg,Golden Orb Weaver
+883,train\Seda_dorada\017.jpg,Golden Orb Weaver
+884,train\Seda_dorada\018.jpg,Golden Orb Weaver
+885,train\Seda_dorada\019.jpg,Golden Orb Weaver
+886,train\Seda_dorada\020.jpg,Golden Orb Weaver
+887,train\Seda_dorada\021.jpg,Golden Orb Weaver
+888,train\Seda_dorada\022.jpg,Golden Orb Weaver
+889,train\Seda_dorada\023.jpg,Golden Orb Weaver
+890,train\Seda_dorada\024.jpg,Golden Orb Weaver
+891,train\Seda_dorada\025.jpg,Golden Orb Weaver
+892,train\Seda_dorada\026.jpg,Golden Orb Weaver
+893,train\Seda_dorada\027.jpg,Golden Orb Weaver
+894,train\Seda_dorada\028.jpg,Golden Orb Weaver
+895,train\Seda_dorada\029.jpg,Golden Orb Weaver
+896,train\Seda_dorada\030.jpg,Golden Orb Weaver
+897,train\Seda_dorada\031.jpg,Golden Orb Weaver
+898,train\Seda_dorada\032.jpg,Golden Orb Weaver
+899,train\Seda_dorada\033.jpg,Golden Orb Weaver
+900,train\Seda_dorada\034.jpg,Golden Orb Weaver
+901,train\Seda_dorada\035.jpg,Golden Orb Weaver
+902,train\Seda_dorada\036.jpg,Golden Orb Weaver
+903,train\Seda_dorada\037.jpg,Golden Orb Weaver
+904,train\Seda_dorada\038.jpg,Golden Orb Weaver
+905,train\Seda_dorada\039.jpg,Golden Orb Weaver
+906,train\Seda_dorada\040.jpg,Golden Orb Weaver
+907,train\Seda_dorada\041.jpg,Golden Orb Weaver
+908,train\Seda_dorada\042.jpg,Golden Orb Weaver
+909,train\Seda_dorada\043.jpg,Golden Orb Weaver
+910,train\Seda_dorada\044.jpg,Golden Orb Weaver
+911,train\Seda_dorada\045.jpg,Golden Orb Weaver
+912,train\Seda_dorada\046.jpg,Golden Orb Weaver
+913,train\Seda_dorada\047.jpg,Golden Orb Weaver
+914,train\Seda_dorada\048.jpg,Golden Orb Weaver
+915,train\Seda_dorada\049.jpg,Golden Orb Weaver
+916,train\Seda_dorada\050.jpg,Golden Orb Weaver
+2185,test\Viuda_negra\1.jpg,Black Widow
+2186,test\Viuda_negra\2.jpg,Black Widow
+2187,test\Viuda_negra\3.jpg,Black Widow
+2188,test\Viuda_negra\4.jpg,Black Widow
+2189,test\Viuda_negra\5.jpg,Black Widow
+2205,test\Violinista\1.jpg,Brown Recluse Spider
+2206,test\Violinista\2.jpg,Brown Recluse Spider
+2207,test\Violinista\3.jpg,Brown Recluse Spider
+2208,test\Violinista\4.jpg,Brown Recluse Spider
+2209,test\Violinista\5.jpg,Brown Recluse Spider
+2215,test\Seda_dorada\1.jpg,Golden Orb Weaver
+2216,test\Seda_dorada\2.jpg,Golden Orb Weaver
+2217,test\Seda_dorada\3.jpg,Golden Orb Weaver
+2218,test\Seda_dorada\4.jpg,Golden Orb Weaver
+2219,test\Seda_dorada\5.jpg,Golden Orb Weaver
+2260,valid\Viuda_negra\1.jpg,Black Widow
+2261,valid\Viuda_negra\2.jpg,Black Widow
+2262,valid\Viuda_negra\3.jpg,Black Widow
+2263,valid\Viuda_negra\4.jpg,Black Widow
+2264,valid\Viuda_negra\5.jpg,Black Widow
+2280,valid\Violinista\1.jpg,Brown Recluse Spider
+2281,valid\Violinista\2.jpg,Brown Recluse Spider
+2282,valid\Violinista\3.jpg,Brown Recluse Spider
+2283,valid\Violinista\4.jpg,Brown Recluse Spider
+2284,valid\Violinista\5.jpg,Brown Recluse Spider
+2290,valid\Seda_dorada\1.jpg,Golden Orb Weaver
+2291,valid\Seda_dorada\2.jpg,Golden Orb Weaver
+2292,valid\Seda_dorada\3.jpg,Golden Orb Weaver
+2293,valid\Seda_dorada\4.jpg,Golden Orb Weaver
+2294,valid\Seda_dorada\5.jpg,Golden Orb Weaver
